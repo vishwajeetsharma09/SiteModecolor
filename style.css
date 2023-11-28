@@ -1,14 +1,10 @@
 h1{
     text-align: center;
-    color: #590303;
-    border: 2px solid black;
+    color:yellow;
+    border: 2px solid rgb(242, 9, 9);
     border-radius:50px;
 }
 button{
     background-color: green;
-    margin-left: 50%;
-    position: absolute;
-
-   
-
+    margin: auto;    
 }
