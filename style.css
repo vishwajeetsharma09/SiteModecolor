@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: #590303;
+    border: 2px solid black;
+    border-radius:50px;
+}
+button{
+    background-color: green;
+    margin-left: 50%;
+    position: absolute;
+
+   
+
+}
